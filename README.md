@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Daniil.
-🌍 Kazakhstan | 16 y.o
+🌍 Kazakhstan | 17 y.o
 
 🚀 **Backend Developer**  
-💡 Stack: `Golang` · `PostgreSQL` · `Python`
+💡 Stack: `Golang`
 
 📫 **Contacts me:**  
 - [Email](mailto:daniilzajfert@gmail.com)  
