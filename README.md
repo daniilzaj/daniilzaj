@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Daniil.
-🌍 Kazakhstan | 17 y.o
+🌍 Kazakhstan
 
 🚀 **Backend Developer**  
 💡 Stack: `Golang`
