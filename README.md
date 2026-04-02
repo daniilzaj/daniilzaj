@@ -10,12 +10,12 @@ Backend developer focused on high-performance services, systems programming, and
 **Languages:** Go, C, C++
 **Architecture & Networking:** WebSockets, gRPC, REST API, Microservices
 **Databases:** MongoDB, PostgreSQL
-**Systems & Low-Level:** Linux (Ubuntu), Systems Programming
-**DevOps & Infrastructure:** Docker, systemd, Git
+**Systems & Low-Level:** Linux, Systems Programming
+**DevOps & Infrastructure:** Docker
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,c,cpp,linux,ubuntu,mongodb,postgres,docker,git,bash" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,linux,arch,mongodb,postgres,docker,git,github," alt="Tech Stack" />
   </a>
 </p>
 
